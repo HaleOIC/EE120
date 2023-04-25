@@ -8,12 +8,12 @@ The course is very interesting, You can learn a lot about `numpy, matplot` opera
 
 More details about the labs:
 
-- `Lab1`: An introduction to `ipynb` , its enviroment and `convolve`
-- `Lab2`: LTI Filtering
-- `Lab3`: the implementation of the `FFT` (which is a faster way for `DFT` ), and a comparasion with the `np.fft.fft`
-- `Lab4`: Infer heart rate by analyzing image data of fingers using the knowledge we have learned.
-- `Lab5`: let you denoise the photos taken by the Hubble Telescope and restore the gorgeous and clear starry sky
-- `Lab6`: let you build a feedback system that balances a thin rod on a cart
+- [x] `Lab1`: An introduction to `ipynb` , its enviroment and `convolve`
+- [x] `Lab2`: LTI Filtering
+- [x] `Lab3`: the implementation of the `FFT` (which is a faster way for `DFT` ), and a comparasion with the `np.fft.fft`
+- [x] `Lab4`: Infer heart rate by analyzing image data of fingers using the knowledge we have learned.
+- [x] `Lab5`: let you denoise the photos taken by the Hubble Telescope and restore the gorgeous and clear starry sky
+- [ ] `Lab6`: let you build a feedback system that balances a thin rod on a cart
 
 These labs make up a specially crafted curriculum, which can give you a better, deeper undetstanding of the `signal and systems`, which is not just a complex calculation.
 
