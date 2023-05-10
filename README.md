@@ -16,8 +16,3 @@ More details about the labs:
 - [x] `Lab6`: let you build a feedback system that balances a thin rod on a cart
 
 These labs make up a specially crafted curriculum, which can give you a better, deeper undetstanding of the `signal and systems`, which is not just a complex calculation.
-
-However, It contains codes that comes from the HUST formal course, I promise the codes is totally written by my hands line by line, hope you can have a nice day in the HUST.
-
-
-
